@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\udio\glfw-3.3.9\glfw-3.3.9\build\CMakeFiles\b0db6b645d53faea1b6b1a0759a7f72e\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\udio\glfw-3.3.9\glfw-3.3.9\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\udio\glfw-3.3.9\glfw-3.3.9\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="G:\udio\glfw-3.3.9\glfw-3.3.9\CMake\GenerateMappings.cmake" />
+    <None Include="G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B81F8874-0616-3BE4-BFE9-A0A673432126}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{56D41270-CBF3-36AF-ACF9-F8064A9A01B8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

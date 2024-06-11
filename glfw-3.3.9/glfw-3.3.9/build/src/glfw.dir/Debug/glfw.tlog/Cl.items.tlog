@@ -1,0 +1,15 @@
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\context.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\context.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\init.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\init.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\input.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\input.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\monitor.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\monitor.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\vulkan.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\vulkan.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\window.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\window.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\win32_init.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\win32_init.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\win32_joystick.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\win32_joystick.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\win32_monitor.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\win32_monitor.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\win32_time.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\win32_time.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\win32_thread.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\win32_thread.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\win32_window.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\win32_window.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\wgl_context.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\wgl_context.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\egl_context.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\egl_context.obj
+G:\udio\glfw-3.3.9\glfw-3.3.9\src\osmesa_context.c;G:\udio\glfw-3.3.9\glfw-3.3.9\build\src\glfw.dir\Debug\osmesa_context.obj

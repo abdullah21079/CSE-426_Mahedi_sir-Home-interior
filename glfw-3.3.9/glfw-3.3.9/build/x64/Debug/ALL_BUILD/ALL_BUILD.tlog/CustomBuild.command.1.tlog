@@ -1,0 +1,10 @@
+^G:\UDIO\GLFW-3.3.9\GLFW-3.3.9\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/udio/glfw-3.3.9/glfw-3.3.9 -BG:/udio/glfw-3.3.9/glfw-3.3.9/build --check-stamp-file G:/udio/glfw-3.3.9/glfw-3.3.9/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
